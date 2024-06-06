@@ -1,3 +1,3 @@
 # Digital_Clock
 <br>
-Digital Clock using HTML , CSS & JavaScript
+Digital Clock using HTML , CSS & JavaScript.
